@@ -1,0 +1,19 @@
+.move-history {
+    max-height: 100px;
+    overflow-y: scroll;
+}
+.body {
+	overflow-x: hidden;
+	
+	 }
+.board {
+    width: 400px;
+    margin: auto
+	 overflow-x: hidden;
+	 overflow-y: hidden;
+}
+
+.info {
+    width: 400px;
+    margin: auto;
+}
