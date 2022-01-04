@@ -1,4 +1,4 @@
 tasks:
-- init: |
-    npm install
-    npm start
+- init: npm install
+- name: Start server
+  command: npm start
